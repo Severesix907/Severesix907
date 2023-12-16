@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Severesix907 AKA Alec
+- 👋 Hi, I’m @Severesix907 AKA Alex
 - 👀 I’m interested in sports, Fitness, Coding and also Being with nature
 - 🌱 I’m currently learning Data Science to learn to explore data to help other people understand 
 that there is always something new.
