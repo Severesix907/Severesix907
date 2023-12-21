@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif)
+![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif)
 <h1 align="center">Hi 👋, I'm Alex Nepomuceno</h1>
 <h3 align="center">I am Passionate about Data Science and Data Analytics</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"
